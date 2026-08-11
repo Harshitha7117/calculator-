@@ -14,5 +14,4 @@ A Python-based calculator that performs basic arithmetic operations.
 
 ## How to Run
 Run the following command:
-
-python calculator.py
+calculator.py
