@@ -8,7 +8,6 @@ A Python-based calculator that performs basic arithmetic operations.
 - Subtraction
 - Multiplication
 - Division
-- Division by zero handling
 
 ## Technologies Used
 - Python
